@@ -15,7 +15,7 @@ spec:
     metadata:
       creationTimestamp: null
       labels:
-        app: gitopswebtest
+        app: gitopswebproject
     spec:
       containers:
       - image: ltartsmusic/gitopswebproject:7
